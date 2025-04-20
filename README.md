@@ -56,12 +56,9 @@ A simple two-player Tic-Tac-Toe game developed for Android devices.
 - Add customizable themes and sounds
 - Store game history
 
-## License
-
-[Your chosen license]
 
 ## Contact
 
-Zubair Ali Sandhu - [Your contact information]
+Zubair Ali Sandhu - [zubairali7893@cfd.nu.edu.pk]
 
 Project Link: https://github.com/Zubair-Ali-Sandhu/TicTacToe-Android
